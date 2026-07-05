@@ -1,0 +1,589 @@
+[
+  {
+    "model": "aviator-am-siyah",
+    "form": "aviator",
+    "materyal": "metal",
+    "renk": "siyah",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "",
+    "fiyat_satis": 3499,
+    "fiyat_liste": 5499,
+    "barkod": "OPT-AVIATOR-AM-SIYAH",
+    "gorseller": [
+      "islenmis/aviator-am-siyah/01.jpg",
+      "islenmis/aviator-am-siyah/02.jpg",
+      "islenmis/aviator-am-siyah/03.jpg",
+      "islenmis/aviator-am-siyah/04.jpg"
+    ]
+  },
+  {
+    "model": "cateye-pembe-siyah",
+    "form": "cat-eye",
+    "materyal": "asetat",
+    "renk": "siyah",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "",
+    "fiyat_satis": 2999,
+    "fiyat_liste": 3999,
+    "barkod": "OPT-CATEYE-PEMBE-SIYAH",
+    "gorseller": [
+      "islenmis/cateye-pembe-siyah/01.jpg",
+      "islenmis/cateye-pembe-siyah/02.jpg",
+      "islenmis/cateye-pembe-siyah/03.jpg",
+      "islenmis/cateye-pembe-siyah/04.jpg"
+    ]
+  },
+  {
+    "model": "ciftkopru-kare-siyah",
+    "form": "cift-kopru",
+    "materyal": "karma",
+    "renk": "siyah",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "",
+    "fiyat_satis": 3499,
+    "fiyat_liste": 5499,
+    "barkod": "OPT-CIFTKOPRU-KARE-SIYAH",
+    "gorseller": [
+      "islenmis/ciftkopru-kare-siyah/01.jpg",
+      "islenmis/ciftkopru-kare-siyah/02.jpg",
+      "islenmis/ciftkopru-kare-siyah/03.jpg",
+      "islenmis/ciftkopru-kare-siyah/04.jpg"
+    ]
+  },
+  {
+    "model": "yuvarlak-gold-xc1010",
+    "form": "yuvarlak",
+    "materyal": "metal",
+    "renk": "gold",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "",
+    "fiyat_satis": 3199,
+    "fiyat_liste": 4499,
+    "barkod": "OPT-YUVARLAK-GOLD-XC1010",
+    "gorseller": [
+      "islenmis/yuvarlak-gold-xc1010/01.jpg",
+      "islenmis/yuvarlak-gold-xc1010/02.jpg",
+      "islenmis/yuvarlak-gold-xc1010/03.jpg"
+    ]
+  },
+  {
+    "model": "obless-ciftkopru-siyah",
+    "form": "aviator",
+    "materyal": "metal",
+    "renk": "siyah",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "",
+    "fiyat_satis": 3499,
+    "fiyat_liste": 5499,
+    "barkod": "OPT-OBLESS-CIFTKOPRU-SIYAH",
+    "gorseller": [
+      "islenmis/obless-ciftkopru-siyah/01.jpg",
+      "islenmis/obless-ciftkopru-siyah/02.jpg",
+      "islenmis/obless-ciftkopru-siyah/03.jpg"
+    ]
+  },
+  {
+    "model": "wayfarer-l131-siyah",
+    "form": "wayfarer",
+    "materyal": "asetat",
+    "renk": "siyah",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "",
+    "fiyat_satis": 2999,
+    "fiyat_liste": 3999,
+    "barkod": "OPT-WAYFARER-L131-SIYAH",
+    "gorseller": [
+      "islenmis/wayfarer-l131-siyah/01.jpg",
+      "islenmis/wayfarer-l131-siyah/02.jpg",
+      "islenmis/wayfarer-l131-siyah/03.jpg"
+    ]
+  },
+  {
+    "model": "wayfarer-3132-siyah",
+    "form": "wayfarer",
+    "materyal": "asetat",
+    "renk": "siyah",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "57-17-145",
+    "fiyat_satis": 2999,
+    "fiyat_liste": 3999,
+    "barkod": "OPT-WAYFARER-3132-SIYAH",
+    "gorseller": [
+      "islenmis/wayfarer-3132-siyah/01.jpg",
+      "islenmis/wayfarer-3132-siyah/02.jpg",
+      "islenmis/wayfarer-3132-siyah/03.jpg"
+    ]
+  },
+  {
+    "model": "wayfarer-2132-kahve",
+    "form": "wayfarer",
+    "materyal": "asetat",
+    "renk": "kahve",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "57-17-145",
+    "fiyat_satis": 2999,
+    "fiyat_liste": 3999,
+    "barkod": "OPT-WAYFARER-2132-KAHVE",
+    "gorseller": [
+      "islenmis/wayfarer-2132-kahve/01.jpg",
+      "islenmis/wayfarer-2132-kahve/02.jpg"
+    ]
+  },
+  {
+    "model": "wayfarer-un1974-degrade",
+    "form": "wayfarer",
+    "materyal": "asetat",
+    "renk": "siyah",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "58-17-142",
+    "fiyat_satis": 2999,
+    "fiyat_liste": 3999,
+    "barkod": "OPT-WAYFARER-UN1974-DEGRADE",
+    "gorseller": [
+      "islenmis/wayfarer-un1974-degrade/01.jpg",
+      "islenmis/wayfarer-un1974-degrade/02.jpg",
+      "islenmis/wayfarer-un1974-degrade/03.jpg",
+      "islenmis/wayfarer-un1974-degrade/04.jpg"
+    ]
+  },
+  {
+    "model": "aviator-am032-kirmizi",
+    "form": "aviator",
+    "materyal": "metal",
+    "renk": "siyah",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "",
+    "fiyat_satis": 3499,
+    "fiyat_liste": 5499,
+    "barkod": "OPT-AVIATOR-AM032-KIRMIZI",
+    "gorseller": [
+      "islenmis/aviator-am032-kirmizi/01.jpg",
+      "islenmis/aviator-am032-kirmizi/02.jpg",
+      "islenmis/aviator-am032-kirmizi/03.jpg",
+      "islenmis/aviator-am032-kirmizi/04.jpg"
+    ]
+  },
+  {
+    "model": "spor-pl01417-siyah",
+    "form": "spor",
+    "materyal": "asetat",
+    "renk": "siyah",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "51-14-135",
+    "fiyat_satis": 2799,
+    "fiyat_liste": 3499,
+    "barkod": "OPT-SPOR-PL01417-SIYAH",
+    "gorseller": [
+      "islenmis/spor-pl01417-siyah/01.jpg",
+      "islenmis/spor-pl01417-siyah/02.jpg",
+      "islenmis/spor-pl01417-siyah/03.jpg",
+      "islenmis/spor-pl01417-siyah/04.jpg",
+      "islenmis/spor-pl01417-siyah/05.jpg"
+    ]
+  },
+  {
+    "model": "wayfarer-lacivert",
+    "form": "wayfarer",
+    "materyal": "asetat",
+    "renk": "lacivert",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "",
+    "fiyat_satis": 2999,
+    "fiyat_liste": 3999,
+    "barkod": "OPT-WAYFARER-LACIVERT",
+    "gorseller": [
+      "islenmis/wayfarer-lacivert/01.jpg",
+      "islenmis/wayfarer-lacivert/02.jpg",
+      "islenmis/wayfarer-lacivert/03.jpg",
+      "islenmis/wayfarer-lacivert/04.jpg",
+      "islenmis/wayfarer-lacivert/05.jpg"
+    ]
+  },
+  {
+    "model": "aviator-metal-siyah-2",
+    "form": "aviator",
+    "materyal": "metal",
+    "renk": "siyah",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "",
+    "fiyat_satis": 3499,
+    "fiyat_liste": 5499,
+    "barkod": "OPT-AVIATOR-METAL-SIYAH-2",
+    "gorseller": [
+      "islenmis/aviator-metal-siyah-2/01.jpg",
+      "islenmis/aviator-metal-siyah-2/02.jpg",
+      "islenmis/aviator-metal-siyah-2/03.jpg"
+    ]
+  },
+  {
+    "model": "aviator-kirmizi-2",
+    "form": "aviator",
+    "materyal": "metal",
+    "renk": "siyah",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "",
+    "fiyat_satis": 3499,
+    "fiyat_liste": 5499,
+    "barkod": "OPT-AVIATOR-KIRMIZI-2",
+    "gorseller": [
+      "islenmis/aviator-kirmizi-2/01.jpg",
+      "islenmis/aviator-kirmizi-2/02.jpg",
+      "islenmis/aviator-kirmizi-2/03.jpg",
+      "islenmis/aviator-kirmizi-2/04.jpg"
+    ]
+  },
+  {
+    "model": "navigator-kare-degrade",
+    "form": "metal",
+    "materyal": "metal",
+    "renk": "siyah",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "",
+    "fiyat_satis": 3199,
+    "fiyat_liste": 4499,
+    "barkod": "OPT-NAVIGATOR-KARE-DEGRADE",
+    "gorseller": [
+      "islenmis/navigator-kare-degrade/01.jpg",
+      "islenmis/navigator-kare-degrade/02.jpg",
+      "islenmis/navigator-kare-degrade/03.jpg",
+      "islenmis/navigator-kare-degrade/04.jpg"
+    ]
+  },
+  {
+    "model": "spor-p201910-sarma",
+    "form": "spor",
+    "materyal": "asetat",
+    "renk": "siyah",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "54-12-126",
+    "fiyat_satis": 2799,
+    "fiyat_liste": 3499,
+    "barkod": "OPT-SPOR-P201910-SARMA",
+    "gorseller": [
+      "islenmis/spor-p201910-sarma/01.jpg",
+      "islenmis/spor-p201910-sarma/02.jpg",
+      "islenmis/spor-p201910-sarma/03.jpg"
+    ]
+  },
+  {
+    "model": "wayfarer-yesil-cool",
+    "form": "wayfarer",
+    "materyal": "asetat",
+    "renk": "siyah",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "",
+    "fiyat_satis": 2999,
+    "fiyat_liste": 3999,
+    "barkod": "OPT-WAYFARER-YESIL-COOL",
+    "gorseller": [
+      "islenmis/wayfarer-yesil-cool/01.jpg",
+      "islenmis/wayfarer-yesil-cool/02.jpg",
+      "islenmis/wayfarer-yesil-cool/03.jpg"
+    ]
+  },
+  {
+    "model": "cateye-ly1526-smoke",
+    "form": "cat-eye",
+    "materyal": "asetat",
+    "renk": "fume",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "54-18-148",
+    "fiyat_satis": 2999,
+    "fiyat_liste": 3999,
+    "barkod": "OPT-CATEYE-LY1526-SMOKE",
+    "gorseller": [
+      "islenmis/cateye-ly1526-smoke/01.jpg",
+      "islenmis/cateye-ly1526-smoke/02.jpg",
+      "islenmis/cateye-ly1526-smoke/03.jpg"
+    ]
+  },
+  {
+    "model": "wayfarer-siyah-2",
+    "form": "wayfarer",
+    "materyal": "asetat",
+    "renk": "siyah",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "",
+    "fiyat_satis": 2999,
+    "fiyat_liste": 3999,
+    "barkod": "OPT-WAYFARER-SIYAH-2",
+    "gorseller": [
+      "islenmis/wayfarer-siyah-2/01.jpg",
+      "islenmis/wayfarer-siyah-2/02.jpg",
+      "islenmis/wayfarer-siyah-2/03.jpg"
+    ]
+  },
+  {
+    "model": "navigator-gumus",
+    "form": "metal",
+    "materyal": "metal",
+    "renk": "gumus",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "",
+    "fiyat_satis": 3199,
+    "fiyat_liste": 4499,
+    "barkod": "OPT-NAVIGATOR-GUMUS",
+    "gorseller": [
+      "islenmis/navigator-gumus/01.jpg",
+      "islenmis/navigator-gumus/02.jpg",
+      "islenmis/navigator-gumus/03.jpg",
+      "islenmis/navigator-gumus/04.jpg"
+    ]
+  },
+  {
+    "model": "wayfarer-degrade-3",
+    "form": "wayfarer",
+    "materyal": "asetat",
+    "renk": "siyah",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "",
+    "fiyat_satis": 2999,
+    "fiyat_liste": 3999,
+    "barkod": "OPT-WAYFARER-DEGRADE-3",
+    "gorseller": [
+      "islenmis/wayfarer-degrade-3/01.jpg",
+      "islenmis/wayfarer-degrade-3/02.jpg",
+      "islenmis/wayfarer-degrade-3/03.jpg"
+    ]
+  },
+  {
+    "model": "aviator-a50-gumus",
+    "form": "aviator",
+    "materyal": "metal",
+    "renk": "gumus",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "62-14-135",
+    "fiyat_satis": 3499,
+    "fiyat_liste": 5499,
+    "barkod": "OPT-AVIATOR-A50-GUMUS",
+    "gorseller": [
+      "islenmis/aviator-a50-gumus/01.jpg",
+      "islenmis/aviator-a50-gumus/02.jpg",
+      "islenmis/aviator-a50-gumus/03.jpg"
+    ]
+  },
+  {
+    "model": "rimless-7203-gold",
+    "form": "aviator",
+    "materyal": "metal",
+    "renk": "gold",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "60-16-145",
+    "fiyat_satis": 3499,
+    "fiyat_liste": 5499,
+    "barkod": "OPT-RIMLESS-7203-GOLD",
+    "gorseller": [
+      "islenmis/rimless-7203-gold/01.jpg",
+      "islenmis/rimless-7203-gold/02.jpg",
+      "islenmis/rimless-7203-gold/03.jpg"
+    ]
+  },
+  {
+    "model": "cateye-mb1450-c1",
+    "form": "cat-eye",
+    "materyal": "karma",
+    "renk": "siyah",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "54-18-142",
+    "fiyat_satis": 2999,
+    "fiyat_liste": 3999,
+    "barkod": "OPT-CATEYE-MB1450-C1",
+    "gorseller": [
+      "islenmis/cateye-mb1450-c1/01.jpg",
+      "islenmis/cateye-mb1450-c1/02.jpg",
+      "islenmis/cateye-mb1450-c1/03.jpg",
+      "islenmis/cateye-mb1450-c1/04.jpg"
+    ]
+  },
+  {
+    "model": "metal-dikdortgen-ince",
+    "form": "metal",
+    "materyal": "metal",
+    "renk": "siyah",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "",
+    "fiyat_satis": 3199,
+    "fiyat_liste": 4499,
+    "barkod": "OPT-METAL-DIKDORTGEN-INCE",
+    "gorseller": [
+      "islenmis/metal-dikdortgen-ince/01.jpg",
+      "islenmis/metal-dikdortgen-ince/02.jpg"
+    ]
+  },
+  {
+    "model": "wayfarer-jm0036-mat",
+    "form": "wayfarer",
+    "materyal": "asetat",
+    "renk": "siyah",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "52-21-145",
+    "fiyat_satis": 2999,
+    "fiyat_liste": 3999,
+    "barkod": "OPT-WAYFARER-JM0036-MAT",
+    "gorseller": [
+      "islenmis/wayfarer-jm0036-mat/01.jpg",
+      "islenmis/wayfarer-jm0036-mat/02.jpg",
+      "islenmis/wayfarer-jm0036-mat/03.jpg"
+    ]
+  },
+  {
+    "model": "navigator-7872-ince",
+    "form": "metal",
+    "materyal": "metal",
+    "renk": "siyah",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "60-17-146",
+    "fiyat_satis": 3199,
+    "fiyat_liste": 4499,
+    "barkod": "OPT-NAVIGATOR-7872-INCE",
+    "gorseller": [
+      "islenmis/navigator-7872-ince/01.jpg",
+      "islenmis/navigator-7872-ince/02.jpg",
+      "islenmis/navigator-7872-ince/03.jpg"
+    ]
+  },
+  {
+    "model": "wayfarer-qb021-kristal",
+    "form": "wayfarer",
+    "materyal": "asetat",
+    "renk": "fume",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "51-19-145",
+    "fiyat_satis": 2999,
+    "fiyat_liste": 3999,
+    "barkod": "OPT-WAYFARER-QB021-KRISTAL",
+    "gorseller": [
+      "islenmis/wayfarer-qb021-kristal/01.jpg",
+      "islenmis/wayfarer-qb021-kristal/02.jpg",
+      "islenmis/wayfarer-qb021-kristal/03.jpg"
+    ]
+  },
+  {
+    "model": "cateye-gri-kristal",
+    "form": "cat-eye",
+    "materyal": "asetat",
+    "renk": "fume",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "",
+    "fiyat_satis": 2999,
+    "fiyat_liste": 3999,
+    "barkod": "OPT-CATEYE-GRI-KRISTAL",
+    "gorseller": [
+      "islenmis/cateye-gri-kristal/01.jpg",
+      "islenmis/cateye-gri-kristal/02.jpg"
+    ]
+  },
+  {
+    "model": "wayfarer-degrade-4",
+    "form": "wayfarer",
+    "materyal": "asetat",
+    "renk": "siyah",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "",
+    "fiyat_satis": 2999,
+    "fiyat_liste": 3999,
+    "barkod": "OPT-WAYFARER-DEGRADE-4",
+    "gorseller": [
+      "islenmis/wayfarer-degrade-4/01.jpg",
+      "islenmis/wayfarer-degrade-4/02.jpg",
+      "islenmis/wayfarer-degrade-4/03.jpg"
+    ]
+  },
+  {
+    "model": "cateye-4221-siyah",
+    "form": "cat-eye",
+    "materyal": "asetat",
+    "renk": "siyah",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "",
+    "fiyat_satis": 2999,
+    "fiyat_liste": 3999,
+    "barkod": "OPT-CATEYE-4221-SIYAH",
+    "gorseller": [
+      "islenmis/cateye-4221-siyah/01.jpg",
+      "islenmis/cateye-4221-siyah/02.jpg"
+    ]
+  },
+  {
+    "model": "cateye-mb1450-c6",
+    "form": "cat-eye",
+    "materyal": "asetat",
+    "renk": "siyah",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "54-18-142",
+    "fiyat_satis": 2999,
+    "fiyat_liste": 3999,
+    "barkod": "OPT-CATEYE-MB1450-C6",
+    "gorseller": [
+      "islenmis/cateye-mb1450-c6/01.jpg",
+      "islenmis/cateye-mb1450-c6/02.jpg",
+      "islenmis/cateye-mb1450-c6/03.jpg"
+    ]
+  },
+  {
+    "model": "cateye-check-temple",
+    "form": "cat-eye",
+    "materyal": "asetat",
+    "renk": "siyah",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "",
+    "fiyat_satis": 2999,
+    "fiyat_liste": 3999,
+    "barkod": "OPT-CATEYE-CHECK-TEMPLE",
+    "gorseller": [
+      "islenmis/cateye-check-temple/01.jpg",
+      "islenmis/cateye-check-temple/02.jpg",
+      "islenmis/cateye-check-temple/03.jpg"
+    ]
+  },
+  {
+    "model": "cateye-mb1449-c6",
+    "form": "cat-eye",
+    "materyal": "asetat",
+    "renk": "siyah",
+    "cinsiyet": "unisex",
+    "polarize": false,
+    "olcu": "51-18-140",
+    "fiyat_satis": 2999,
+    "fiyat_liste": 3999,
+    "barkod": "OPT-CATEYE-MB1449-C6",
+    "gorseller": [
+      "islenmis/cateye-mb1449-c6/01.jpg",
+      "islenmis/cateye-mb1449-c6/02.jpg",
+      "islenmis/cateye-mb1449-c6/03.jpg"
+    ]
+  }
+]
